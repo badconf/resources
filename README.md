@@ -4,21 +4,24 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 
 ### Contents
 
-- [Live systems](#live-systems)
-- [Diagrams](#diagrams)
-- [Tools](#tools)
 - [Cloud](#cloud)
-- [Operating Systems](#operating-systems)
-- [Security and Privacy](#security-and-privacy)
+- [Diagrams](#diagrams)
 - [E-Books](#e-books)
+- [Live systems](#live-systems)
+- [Operating Systems](#operating-systems)
+- [Privacy](#privacy)
+- [Tools](#tools)
 - [Videos](#videos)
 
-## Live Systems
+## Cloud
 
-*ISO boot systems for rescue, privacy or simply live testing*
+*Public cloud resources for AWS, Azure and GCP*
 
-- [SystemRescue](https://www.system-rescue.org/) - SystemRescue is a Linux system rescue toolkit available as a bootable medium for administrating or repairing your system and data after a crash.
-- [Tails](https://tails.net/) - Tails is a portable operating system that protects against surveillance and censorship.
+- [Cloudinfo](https://github.com/banzaicloud/cloudinfo) - Cloud instance type and price information as a service.
+- [Cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
+- [NIST Cloud Definition](https://csrc.nist.gov/pubs/sp/800/145/final) - The NIST Definition of Cloud Computing.
+- [Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - See how much of your cloud bill is spent on fossil fuels, so you can do the right thing and switch. 
+- [Checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages. 
 
 ## Diagrams
 
@@ -33,24 +36,17 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [SVG Repo](https://www.svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons.
 - [Icon monstr](https://iconmonstr.com/) - free, monstrously big and continuously growing source of simple icons run by one creator.
 
-## Tools
+## e-books
 
-*Tools that may be useful daily*
+*Free e-books or not*
 
-- [Availability Calculator](https://availability.sre.xyz/) - Calculate how much downtime should be permitted in your Service Level Agreement or Objective.
-- [Private bin](https://privatebin.net/) - PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data.
-- [Yopass](https://yopass.se/) - Yopass is created to reduce the amount of clear text passwords stored in email and chat conversations by encrypting and generating a short lived link which can only be viewed once.
-- [GrepWin](https://github.com/stefankueng/grepWin) - Regular expression search and replace for Windows.
 
-## Cloud
+## Live Systems
 
-*Public cloud resources for AWS, Azure and GCP*
+*ISO boot systems for rescue, privacy or simply live testing*
 
-- [Cloudinfo](https://github.com/banzaicloud/cloudinfo) - Cloud instance type and price information as a service.
-- [Cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-- [NIST Cloud Definition](https://csrc.nist.gov/pubs/sp/800/145/final) - The NIST Definition of Cloud Computing.
-- [Green Cost Explorer](https://github.com/thegreenwebfoundation/green-cost-explorer) - See how much of your cloud bill is spent on fossil fuels, so you can do the right thing and switch. 
-- [Checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages. 
+- [SystemRescue](https://www.system-rescue.org/) - SystemRescue is a Linux system rescue toolkit available as a bootable medium for administrating or repairing your system and data after a crash.
+- [Tails](https://tails.net/) - Tails is a portable operating system that protects against surveillance and censorship.
 
 ## Operating Systems
 
@@ -61,16 +57,22 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Crontab](https://crontab.guru/) - The quick and simple editor for cron schedule expressions.
 - [Install the .NET Runtime on Ubuntu](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu) - This article describes how to install .NET on Ubuntu.
 
-## Security and Privacy
+## Privacy
 
-*Security and privacy resources*
+*Privacy resources*
 
 - [Privacy Tools](https://www.privacytools.io/) - Website for Encrypted Software & Apps.
 
 
-## e-books
+## Tools
 
-*Free e-books or not*
+*Tools that may be useful daily*
+
+- [Availability Calculator](https://availability.sre.xyz/) - Calculate how much downtime should be permitted in your Service Level Agreement or Objective.
+- [Private bin](https://privatebin.net/) - PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data.
+- [Yopass](https://yopass.se/) - Yopass is created to reduce the amount of clear text passwords stored in email and chat conversations by encrypting and generating a short lived link which can only be viewed once.
+- [GrepWin](https://github.com/stefankueng/grepWin) - Regular expression search and replace for Windows.
+
 
 
 ## Videos
