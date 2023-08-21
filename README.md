@@ -97,6 +97,9 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 *Privacy resources*
 
 - [Privacy Tools](https://www.privacytools.io/) - Website for Encrypted Software & Apps.
+- [GnuPG](doc/GnuPG.md) - Learn how to encrypt your files.
+- [Telemetry IP to avoid on Windows](doc/Microsoft_IP.md) - List of Microsoft IPs and FQDN to put in your `hosts` file on Windows.
+- [Windows 10 privacy settings](doc/Windows_10_Privacy.md) - Learn how to configure Windows 10 for more privacy.
 
 
 ## Tools
