@@ -1,9 +1,10 @@
 # Technical Resources
 
-A list of stuff collected as I wander the internet, about architecture, infrastructure, privacy, security and other technical topics.
+A list of stuff collected as I wander the internet, about architecture, infrastructure, privacy, security, audio, video and other technical topics.
 
 ### Contents
 
+- [Audio](#audio)
 - [Cloud](#cloud)
 - [Diagrams](#diagrams)
 - [E-Books](#e-books)
@@ -12,6 +13,18 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Privacy](#privacy)
 - [Tools](#tools)
 - [Videos](#videos)
+
+## Audio
+
+*Audio Software : DAW, remix, listen*
+
+- [LMMS](https://github.com/LMMS/lmms) -  Cross-platform music production software .
+- [VoiceMeeter](https://vb-audio.com/Voicemeeter/banana.htm) - Advanced Audio Mixer Application endowed with Virtual Audio Device to mix and manage any audio sources from or to any audio devices or applications.
+- [Waveform Free](https://www.tracktion.com/products/waveform-free) - digital audio workstation band editing software.
+- [Ardour](https://www.ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows.
+- [Bitwig](https://www.bitwig.com/buy/) - The essential tools for music creation.
+- [Mixxx](https://github.com/mixxxdj/mixxx) -  Mixxx is Free DJ software that gives you everything you need to perform live mixes. 
+- [Hydrogen](http://hydrogen-music.org/) - The digital home of the advanced drum machine. (**non https website**)
 
 ## Cloud
 
