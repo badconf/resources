@@ -101,6 +101,13 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Telemetry IP to avoid on Windows](doc/Microsoft_IP.md) - List of Microsoft IPs and FQDN to put in your `hosts` file on Windows.
 - [Windows 10 privacy settings](doc/Windows_10_Privacy.md) - Learn how to configure Windows 10 for more privacy.
 
+*Profile analysis and generator*
+
+- [Check Usernames](https://checkusernames.com) - Check the use of your brand or username on 160 Social Networks.
+- [Webmii](https://webmii.com) -  People search engine.
+- [Verexif](https://www.verexif.com/en/) - Using this tool you can view and remove exif data online of your pictures without downloading any program. If there are GPS info on the image you can also see it on a map.
+- [Fakenamegenerator](https://www.fakenamegenerator.com/) - Generate a random profile with name, age, country etc.
+
 
 ## Tools
 
