@@ -1,5 +1,7 @@
 # Tuning Windows 10 Privacy Settings
 
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
 Settings to apply to your Windows 10 instance to limit Microsoft privacy intrusion. 
 
 ## Before/During Installation
