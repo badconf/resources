@@ -7,6 +7,7 @@ Here is stuff collected as I wander the internet, about architecture, infrastruc
 - [Live Systems](Live.md)
 - [Operating Systems](OS.md)
 - [Privacy](Privacy.md)
+- [Tools](Tools.md)
 
 ## License
 
