@@ -18,6 +18,7 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 
 *Audio Software : DAW, remix, listen*
 
+- [Audacity](https://www.audacityteam.org/) - Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux, free and open source software.
 - [LMMS](https://github.com/LMMS/lmms) -  Cross-platform music production software .
 - [VoiceMeeter](https://vb-audio.com/Voicemeeter/banana.htm) - Advanced Audio Mixer Application endowed with Virtual Audio Device to mix and manage any audio sources from or to any audio devices or applications.
 - [Waveform Free](https://www.tracktion.com/products/waveform-free) - digital audio workstation band editing software.
