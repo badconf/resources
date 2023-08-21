@@ -11,6 +11,7 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Live systems](#live-systems)
 - [Operating Systems](#operating-systems)
 - [Privacy](#privacy)
+- [Text Document Processing](#text-document-processing)
 - [Tools](#tools)
 
 ## Audio
@@ -48,6 +49,7 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 
 - [SVG Repo](https://www.svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons.
 - [Icon monstr](https://iconmonstr.com/) - free, monstrously big and continuously growing source of simple icons run by one creator.
+- [Icon duck](https://iconduck.com/) - free open source icons and illustrations.
 
 ## Generative AI
 
@@ -80,6 +82,7 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 *ISO boot systems for rescue, privacy or simply live testing*
 
 - [SystemRescue](https://www.system-rescue.org/) - SystemRescue is a Linux system rescue toolkit available as a bootable medium for administrating or repairing your system and data after a crash.
+- [Ubuntu](https://ubuntu.com/tutorials/try-ubuntu-before-you-install#1-getting-started) - With a live Ubuntu, you can do almost anything you can from an installed Ubuntu.
 - [Tails](https://tails.net/) - Tails is a portable operating system that protects against surveillance and censorship.
 
 ## Operating Systems
@@ -97,6 +100,11 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 *Privacy resources*
 
 - [Privacy Tools](https://www.privacytools.io/) - Website for Encrypted Software & Apps.
+- [Cryptomator](https://cryptomator.org/) - Cryptomator encrypts your data quickly and easily.
+- [GnuPG](https://www.gnupg.org/) - GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880.
+
+*Personal guides*
+
 - [GnuPG](doc/GnuPG.md) - Learn how to encrypt your files.
 - [Telemetry IP to avoid on Windows](doc/Microsoft_IP.md) - List of Microsoft IPs and FQDN to put in your `hosts` file on Windows.
 - [Windows 10 privacy settings](doc/Windows_10_Privacy.md) - Learn how to configure Windows 10 for more privacy.
@@ -108,6 +116,15 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Verexif](https://www.verexif.com/en/) - Using this tool you can view and remove exif data online of your pictures without downloading any program. If there are GPS info on the image you can also see it on a map.
 - [Fakenamegenerator](https://www.fakenamegenerator.com/) - Generate a random profile with name, age, country etc.
 
+## Text Document Processing
+
+*Advanced software for text processing*
+
+- [Overleaf](https://www.overleaf.com/) - The easy to use, online, collaborative LaTeX editor.
+- [Stack Edit](https://stackedit.io/app#) - In-browser Markdown editor.
+- [LaTeX.css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document.
+- [Pandoc](https://pandoc.org/) - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.
+
 
 ## Tools
 
@@ -117,7 +134,7 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Private bin](https://privatebin.net/) - PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data.
 - [Yopass](https://yopass.se/) - Yopass is created to reduce the amount of clear text passwords stored in email and chat conversations by encrypting and generating a short lived link which can only be viewed once.
 - [GrepWin](https://github.com/stefankueng/grepWin) - Regular expression search and replace for Windows.
-
+- [IP Port Scanner](https://www.advanced-port-scanner.com/) - Free port scanner.
 
 
 ## License
