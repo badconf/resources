@@ -1,5 +1,4 @@
 # Technical Resources 
-[![License](https://img.shields.io/badge/License-CC0-orange)](LICENSE)
 
 A list of stuff collected as I wander the internet, about architecture, infrastructure, privacy, security, audio, video and other technical topics.
 
