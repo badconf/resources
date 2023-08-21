@@ -7,12 +7,10 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Audio](#audio)
 - [Cloud](#cloud)
 - [Diagrams](#diagrams)
-- [E-Books](#e-books)
 - [Live systems](#live-systems)
 - [Operating Systems](#operating-systems)
 - [Privacy](#privacy)
 - [Tools](#tools)
-- [Videos](#videos)
 
 ## Audio
 
@@ -49,10 +47,6 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [SVG Repo](https://www.svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons.
 - [Icon monstr](https://iconmonstr.com/) - free, monstrously big and continuously growing source of simple icons run by one creator.
 
-## e-books
-
-*Free e-books or not*
-
 
 ## Live Systems
 
@@ -86,11 +80,6 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Yopass](https://yopass.se/) - Yopass is created to reduce the amount of clear text passwords stored in email and chat conversations by encrypting and generating a short lived link which can only be viewed once.
 - [GrepWin](https://github.com/stefankueng/grepWin) - Regular expression search and replace for Windows.
 
-
-
-## Videos
-
-*Public, ongoing video & audio casts*
 
 
 ## License
