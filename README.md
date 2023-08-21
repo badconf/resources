@@ -80,6 +80,6 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 
 ## License
 
-🔓 This project is licensed under the [Creative Commons Public Domain (CC0)](LICENSE).
+🔓 This material is licensed under the [Creative Commons Public Domain (CC0)](LICENSE).
 
 ![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
