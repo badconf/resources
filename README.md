@@ -2,11 +2,13 @@
 
 A list of bookmarks and documents for technical and infrastructure skills.
 
-### Contents
+### Content
 
-- [Bookmarks](bookmarks/README.md)
+The first part of content is a [bookmarks](bookmarks/README.md) on one page.
+
+The other part of content is made of single documents:
 - [GnuPG Guide](doc/GnuPG.md)
-
+- [Windows 10 Privacy Settings](Windows_10_Privacy.md)
 
 ## License
 
