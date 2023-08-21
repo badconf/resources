@@ -9,6 +9,7 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Audio](#audio)
 - [Cloud](#cloud)
 - [Diagrams](#diagrams)
+- [Generative AI](#generative-ai)
 - [Live systems](#live-systems)
 - [Operating Systems](#operating-systems)
 - [Privacy](#privacy)
@@ -50,6 +51,31 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [SVG Repo](https://www.svgrepo.com/) - 500.000+ Open-licensed SVG Vector and Icons.
 - [Icon monstr](https://iconmonstr.com/) - free, monstrously big and continuously growing source of simple icons run by one creator.
 
+## Generative AI
+
+*ChatGPT*
+
+- [ChatGPT](https://chat.openai.com/) - OpenAI generative AI.
+- [125+ Best ChatGPT Prompts](https://beebom.com/best-chatgpt-prompts/) - 125+ Best ChatGPT Prompts for All Kinds of Workflow.
+- [100+ Best ChatGPT Prompts](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/) - 100+ Best ChatGPT and Bard Prompts to Unleash AI’s Potential.
+- [ChatGPT: Techniques and Tips](https://www.analyticsvidhya.com/blog/2023/05/how-to-improve-the-reliability-of-chatgpt-techniques-and-tips/) - How to Improve the Reliability of ChatGPT.
+- [ShareGPT](https://sharegpt.com/) - Share your wildest ChatGPT conversations with one click.
+
+*Other generative AI*
+
+- [Perplexity AI](https://www.perplexity.ai/) - Perplexity is your AI research assistant.
+- [Stable Diffusion](https://stablediffusionweb.com/) - Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input.
+- [Midjourney](https://www.midjourney.com/) - Use the Midjourney bot to generate stunning images from simple text prompts in seconds.
+- [Bard](https://bard.google.com/) - Google AI
+- [Mozilla AI](https://mozilla.ai/) - A startup — and community — building trustworthy and open-source AI.
+- [Character AI](https://beta.character.ai/) - Character.AI is a new product powered by our own deep learning models, including large language models, built and trained from the ground up with conversation in mind.
+- [Lexica Aperture](https://lexica.art/aperture) - Generate images from text.
+- [You](https://you.com/) - AI chatbot to search the web.
+- [Adobe Podcast](https://podcast.adobe.com/enhance) - Speech enhancement makes voice recordings sound as if they were recorded in a professional studio.
+- [Jasper AI](https://www.jasper.ai/) - Jasper is the best AI writer and AI art generator.
+- [Copy AI](https://www.copy.ai) - Copy AI is an AI-powered content writing tool that automates your content workflow using natural language processing and deep learning.
+- [Murf AI](https://murf.ai/) - AI voice generator in 20 languages.
+- [Claude AI](https://claude.ai) - A next-generation AI assistant for your tasks, no matter the scale.
 
 ## Live Systems
 
