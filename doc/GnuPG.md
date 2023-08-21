@@ -1,5 +1,7 @@
 # GnuPG
 
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
 The purpose of this document is to provide an overview of GnuPG software and its capabilities, as well as to offer practical guidance on how to use it in various contexts. By reading this document, you will learn:
 
 -   What GnuPG is, and how it works
