@@ -3,6 +3,10 @@
 Here is stuff collected as I wander the internet, about architecture, infrastructure, privacy, security and other technical topics.
 
 - [Cloud](Cloud.md)
+- [Diagrams](Diagrams.md)
+- [Live Systems](Live.md)
+- [Operating Systems](OS.md)
+- [Privacy](Privacy.md)
 
 ## License
 
