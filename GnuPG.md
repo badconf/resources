@@ -235,7 +235,7 @@ If you\'re interested in learning more about GnuPG and how to use it effectively
 2.  The GnuPG Wiki: [The GnuPG Wiki](https://wiki.gnupg.org) is a collaborative resource where users can share information and tips about using GnuPG.
 3.  The GnuPG mailing list: [The GnuPG mailing list](https://lists.gnupg.org/mailman/listinfo/gnupg-users) is a community of GnuPG users and developers who can provide help and support.
 4.  Cryptography Stack Exchange: [The Cryptography Stack Exchange](https://crypto.stackexchange.com) is a Q&A forum where users can ask and answer questions about cryptography, including GnuPG.
-5.  Online tutorials: There are many online tutorials available that provide step-by-step guidance on how to use GnuPG for various purposes. Some recommended sources include the EFF\'s [Surveillance Self-Defense guide](https://ssd.eff.org/en/module/how-use-pgp-windows), [Riseup\'s email encryption guide](https://riseup.net/en/security/message-security/openpgp/best-practices), and the [Linux Journal\'s GnuPG tutorial](https://www.linuxjournal.com/article/9459).
+5.  Online tutorials: Some recommended sources include the EFF\'s [Surveillance Self-Defense guide](https://ssd.eff.org/en/module/how-use-pgp-windows), [Riseup\'s email encryption guide](https://riseup.net/en/security/message-security/openpgp/best-practices), and the [Linux Journal\'s GnuPG tutorial](https://www.linuxjournal.com/article/9459).
 6.  \"Applied Cryptography: Protocols, Algorithms and Source Code in C\" by Bruce Schneier.
 7.  \"Cryptography Engineering: Design Principles and Practical Applications\" by Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno.
 
