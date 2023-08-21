@@ -4,7 +4,7 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 
 ### Contents
 
-- [Boot systems](#live-systems)
+- [Live systems](#live-systems)
 - [Diagrams](#diagrams)
 - [Tools](#tools)
 - [Cloud](#cloud)
