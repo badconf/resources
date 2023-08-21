@@ -1,6 +1,5 @@
-# Technical Resources
-
-[![badconf - Bookmarks list](https://img.shields.io/badge/badconf-Bookmarks_list-ff9d00?style=for-the-badge)](https://github.com/badconf/resources/tree/main)
+# Technical Resources 
+[![License](https://img.shields.io/badge/License-CC0-orange)](license)
 
 A list of stuff collected as I wander the internet, about architecture, infrastructure, privacy, security, audio, video and other technical topics.
 
