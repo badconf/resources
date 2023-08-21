@@ -5,7 +5,7 @@ A list of bookmarks and documents for technical and infrastructure skills.
 ### Contents
 
 - [Bookmarks](bookmarks/README.md)
-- [GnUPG Guide](doc/GnuPG.md)
+- [GnuPG Guide](doc/GnuPG.md)
 
 
 ## License
