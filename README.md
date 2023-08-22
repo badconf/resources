@@ -137,7 +137,7 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [IP Port Scanner](https://www.advanced-port-scanner.com/) - Free port scanner.
 - [Technology Radar](https://www.thoughtworks.com/radar) - An opinionated guide to technology frontiers.
 - [Our World In Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.
-- 
+
 
 ## License
 
