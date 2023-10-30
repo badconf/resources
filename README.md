@@ -116,6 +116,15 @@ A list of stuff collected as I wander the internet, about architecture, infrastr
 - [Verexif](https://www.verexif.com/en/) - Using this tool you can view and remove exif data online of your pictures without downloading any program. If there are GPS info on the image you can also see it on a map.
 - [Fakenamegenerator](https://www.fakenamegenerator.com/) - Generate a random profile with name, age, country etc.
 
+*Compromised account checker*
+
+- [CyberNews](https://cybernews.com/personal-data-leak-check/) - Check if your data has been leaked
+- [Have I been Pwned](https://haveibeenpwned.com/) - Check if your email address is in a data breach
+- [Firefox Monitor](https://monitor.firefox.com/) - Check if your personal data were compromised
+- [Breach Directory](https://breachdirectory.org/) - Check if your email or username was compromised
+- [DeHashed](https://www.dehashed.com/) - Take Your Personal Security to the Next Level.
+- [InOiTsu](https://www.hotsheet.com/inoitsu/) - Email Address Breach Summary and Analysis
+
 ## Text Document Processing
 
 *Advanced software for text processing*
